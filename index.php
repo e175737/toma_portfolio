@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>toma</title>
-		<link rel="stylesheet" href="portfolio.css">
+		<link rel="stylesheet" href="stylesheet.css">
 	</head>
 	
 	<body>
